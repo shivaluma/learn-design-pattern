@@ -1,5 +1,5 @@
 public class TestClass {
-    public void main() {
+    public void main(String[] args) {
 
     }
 }
